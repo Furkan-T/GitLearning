@@ -3,4 +3,9 @@ Test3 dosyası main branchda guncellendi
 =======
 Test3 test-branchdeki ilk yazıyı yaziyorum
 >>>>>>> test-branch
+<<<<<<< HEAD
 Test3 dosyasi main branchde degistirildi
+=======
+
+Test3 dosyası yeni-branchda degistirildi
+>>>>>>> yeni-branch
