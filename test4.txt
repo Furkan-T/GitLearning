@@ -1,2 +1,3 @@
 Main branchda test4.txt dosyasını oluşturduk.
 Test4 dosyasını tekrar test-branch uzerinde guncelliyoruz
+Yeni-branch de test4 dosyasını degistirdik
