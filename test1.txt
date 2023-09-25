@@ -1,2 +1,3 @@
 Bu bizim ilk dosyamız ve ilk yazımız. bunu da nano ile yazdık
 nanoyu keşfediyoruz.
+İkinci yazımızı da yazmış bulunmaktayız.
