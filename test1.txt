@@ -2,3 +2,4 @@ Bu bizim ilk dosyamız ve ilk yazımız. bunu da nano ile yazdık
 nanoyu keşfediyoruz.
 İkinci yazımızı da yazmış bulunmaktayız.
 Main branchda test1 I guncelledik
+yeni-branch da test1.txt yi tekrardan güncelledik.
